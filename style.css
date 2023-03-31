@@ -1,0 +1,39 @@
+body{
+    background-size: cover;
+    
+}
+.Header{
+    font-size: xx-large;
+    font-weight: bolder;
+    width: 100%;
+    margin-top: 0%;
+}
+.button_start{
+    font-size: 15px;
+    font-weight: bold;
+
+}
+.lb1{
+    font-size: 15px;
+    font-weight: bold;
+}
+.lb2{
+    font-size: 15px;
+    font-weight: bold;
+}
+.footer{
+    font-size: 20px ;
+    font-weight: bolder;
+    bottom: 0;
+    line-height: 2;
+    width: 100%;
+    position: fixed;
+    background-color: grey;
+    text-align: center;
+}
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 150px;
+}
